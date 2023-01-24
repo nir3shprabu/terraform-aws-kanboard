@@ -1,12 +1,9 @@
 # terraform-aws-kanboard
 
-This repo contains a Terraform plan for deploying [kanboard](https://github.com/kanboard/kanboard)
- instance and **postgresql** database  on  two different AWS EC2 instance
+This repo contains a Terraform plan for deploying [kanboard](https://github.com/kanboard/kanboard) on an AWS EC2 instance
 
-# Kanboard
-```
-The Kanban board is a tool for workflow visualization, designed to help you bring clarity to your work process and enhance efficiency by limiting work in progress. With this new level of transparency, you will quickly identify problematic work stages, and by improving those, your team will soon work more efficiently.
-```
+Kanboard is a project management open source software application that uses a Kanban board to implement the Kanban process management system. Features[2] include a minimal drag-and-drop web user interface, a command line interface[3] and ability to automate repetitive tasks. Kanboard uses SQLite by default and can use other SQL databases. Various plugins by external authors provide additional customisation and expansion capabilities, e.g. custom CSS themes to change the default appearance.
+
 
 ## Requirements
 
